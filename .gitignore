@@ -1,0 +1,4 @@
+.pylintrc
+pyrightconfig.json
+
+.venv/
