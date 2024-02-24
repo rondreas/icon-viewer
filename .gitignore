@@ -1,4 +1,5 @@
 .pylintrc
 pyrightconfig.json
 
-.venv/
+venv/
+lxserv/__pycache__/
