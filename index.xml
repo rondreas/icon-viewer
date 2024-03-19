@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package version="1500">
-  <kit name="icon-viewer" restart="YES">
+  <kit name="IconViewer" restart="YES">
     <source target="icon-viewer/index.cfg">index.cfg</source>
-    <source target="icon-viewer/lxserv/icon-viewer.py">lxserv/icon-viewer.py</source>
+    <source target="icon-viewer/lxserv/icon_viewer.py">lxserv/icon_viewer.py</source>
   </kit>
   <message button="Help">Successfully installed Icon Viewer.</message>
 </package>
